@@ -1,5 +1,7 @@
 var playlist = new 
-Object({zayn:'you and i'},{ph1:'hiphop'})
+Object({zayn:'you and i'},{ph1:'hiphop'},{Kanye:
+  "Gold Digger"
+})
 
 function updatePlaylist (playlist, artistName, songTitle){
   Object.assign(playlist, {[artistName]: songTitle})
