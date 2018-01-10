@@ -1,6 +1,3 @@
-var meals = new 
-Object({breakfast:'oatmeal'})
+var playlist = new 
+Object({zayn:'you and i'},{ph1:'hiphop'})
 
-meals.breakfast
-
-meals.snack = 'yogurt';
